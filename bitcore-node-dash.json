@@ -1,6 +1,6 @@
 {
   "network": "mainnet",
-  "port": 23506,
+  "port": 3001,
   "services": [
     "bitcoind",
     "insight-api-dash",
