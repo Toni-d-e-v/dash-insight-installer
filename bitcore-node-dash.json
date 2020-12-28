@@ -1,6 +1,6 @@
 {
   "network": "mainnet",
-  "port": 3001,
+  "port": 23506,
   "services": [
     "bitcoind",
     "insight-api-dash",
@@ -11,7 +11,7 @@
     "bitcoind": {
       "connect": [{
         "rpchost": "127.0.0.1",
-        "rpcport": 9998,
+        "rpcport": 23505,
         "rpcuser": "dash",
         "rpcpassword": "local321",
         "zmqpubrawtx": "tcp://127.0.0.1:28332"
